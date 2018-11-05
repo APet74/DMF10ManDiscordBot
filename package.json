@@ -1,0 +1,11 @@
+{
+  "name": "dmf10man",
+  "version": "1.0.0",
+  "description": "10 man bot for dmfrenzy.com",
+  "main": "index.js",
+  "author": "ToxicFrank",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
